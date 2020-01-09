@@ -1,0 +1,18 @@
+{
+  "name": "yt-video-to-audio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "es6-promise-pool": "^2.5.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "ytdl-core": "^1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
